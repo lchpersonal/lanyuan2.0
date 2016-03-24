@@ -80,8 +80,4 @@ local.properties
 classes/
 lib/
 
-## Use *.dist to recover original configuration.
-
-log4j.properties
-
 /src/main/resources/rebel.xml
